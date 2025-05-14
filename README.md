@@ -1,7 +1,7 @@
 
 # Mobile-Assisted Classroom Activity System
 
-This repository is for the **Mobile-Assisted Classroom Activity System** project, which aims to create an interactive system for classroom activities that is assisted by mobile devices.
+This repository is for the **Mobile-Assisted Classroom Activity System (MACAS)** project, which aims to create an interactive system for classroom activities that is assisted by mobile devices.
 
 ## Table of Contents
 - [Requirements](#requirements)
